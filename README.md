@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## RS School Homework
+
+S3 link - [http://node-aws-game-store.s3-website-eu-west-1.amazonaws.com/](http://node-aws-game-store.s3-website-eu-west-1.amazonaws.com/)
+
+Cloudfront link - [https://dzoeo5ro89p43.cloudfront.net/](https://dzoeo5ro89p43.cloudfront.net/)
+
 ## Available Scripts
 
 In the project directory, you can run:  
